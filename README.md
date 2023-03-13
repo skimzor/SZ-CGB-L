@@ -1,6 +1,6 @@
-# SZ Color Lite (SZ-CGB-L)
+# SZ Color Lite (SZ-CGB-L) PCB
 
-Introducing the SZ Color Lite.  
+The SZ Color Lite is a replacement PCB for the Nintendo Game Boy Color.  As the majority of modders doing a PCB swap will use an IPS-kit to complete their Game Boy Color, the SZ Color Lite PCB will make the transplanting process easier as it does not contain component
 
 # Features
 
