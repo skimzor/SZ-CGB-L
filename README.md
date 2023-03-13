@@ -40,7 +40,7 @@ Since this PCB uses the original CGB schematics, you are able to directly transp
 
 **Note:** Component transfer from a donor Game Boy Color to the SZ-CGB-L PCB is one to one (e.g. C1 from the donor PCB goes to C1 on SZ-CGB-L, R3 from the donor PCB goes to R3 on SZ-CGB-L, etc). Please verify orientation/polarity of components before soldering.
 
-Additionally, not all components from the donor Game Boy Color will be used. The SZ Color Lite can only be used with a specific IPS screen kit (linked below) and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails do not need to be transplanted.
+Additionally, not all components from the donor Game Boy Color will be used. The SZ Color Lite can only be used with Game Boy Color IPS screen kits and doesn't need the additional voltage rails that the OEM Game Boy Color screen uses; therefore, components for those rails do not need to be transplanted.
 
 # Additional Parts
 
