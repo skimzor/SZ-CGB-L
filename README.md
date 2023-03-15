@@ -1,6 +1,6 @@
 # SZ Color Lite (SZ-CGB-L) PCB
 
-The SZ Color Lite is a replacement PCB for the Nintendo Game Boy Color. The majority of modders doing a PCB swap will use an IPS screen to complete their console; by omitting the components that are required to power the OEM Game Boy Color screen, the SZ Color Lite PCB makes transplanting from the donor console easier. 
+The SZ Color Lite is a replacement PCB for the Nintendo Game Boy Color. As the majority of modders that do a PCB swap will use an IPS screen, components from the donor console that were used to power the OEM screen are unnecessary.  The SZ Color Lite PCB omits these components from the board and makes the transplanting process easier and more efficient. 
 
 # Features
 
@@ -13,7 +13,7 @@ The SZ Color Lite is a replacement PCB for the Nintendo Game Boy Color. The majo
 ![](images/pcb_back.JPEG)
 
 # Disclaimer
-You will need to transfer components from a working Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
+You will need to transfer components from a Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
 
 **Note**: There are multiple revisions of the OEM CGB PCBs (CPU-01 through CPU-06).  CGB-CPU revisions 01-05 have slight differences in passive components,  but they *should* be compatible with this PCB.  **CGB-CPU revision 06 is incompatible and cannot be used with this PCB.**  
 
