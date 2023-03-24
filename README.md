@@ -9,8 +9,8 @@ The SZ Color Lite is a replacement PCB for the Nintendo Game Boy Color. As the m
 - Option for tactile buttons on the directional pad, A/B, and start/select buttons (picture below is of an older revision of the PCB)
 - Reduced component transfer from donor Game Boy Color console
 
-![](images/sz_cgb-l_front.JPEG.JPEG)
-![](images/sz_cgb-l_back.JPEG.JPEG)
+![](images/sz_cgb-l_front.JPEG)
+![](images/sz_cgb-l_back.JPEG)
 
 # Disclaimer
 You will need to transfer components from a Game Boy Color for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the CGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy Color or for any failed attempts. 
