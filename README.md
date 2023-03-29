@@ -21,9 +21,9 @@ I have personally tested this PCB and successfully created a working SZ Color Li
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
-# Purchase and Ordering
+# Ordering
 
-The SZ Color Lite PCB will be available for purchase through Ko-fi:
+The SZ Color Lite PCB will be available through Ko-fi:
 
 - [Ko-fi](https://ko-fi.com/skimzor)
 
