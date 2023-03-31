@@ -44,7 +44,7 @@ Additionally, not all components from the donor Game Boy Color will be used. The
 
 # Additional Parts
 
-In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Color Lite.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"discord"** for 10% off your order.
+In addition to the donor Game Boy Color, you will need the following items to make a functional handheld SZ Color Lite.  You can find all of these parts on Retro Game Repair Shop.  Use the discount code **"makho"** for 10% off your order.
 
 - **Game Boy Color IPS Kit:** As the SZ Color Lite will not work with the OEM CGB LCD, you will need a Game Boy Color IPS Kit.  Any Game Boy Color IPS Kit will work but it is recommended to get a Funnyplaying GBC Laminated IPS Kit. [(Link)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit)
 - **Game Boy Color Shell:** It is recommended to get the Funnyplaying Laminated IPS-Ready Game Boy Color shell. You can use any Game Boy Color shell but be prepared to trim it to fit the LCD [(Link)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell)
