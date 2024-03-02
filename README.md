@@ -23,14 +23,7 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 
 # Ordering
 
-The SZ Color Lite PCB will be available through Ko-fi:
-
-- [Ko-fi](https://ko-fi.com/skimzor)
-
-
-You can also order the boards through PCBWay as a shared project (in any color you want):
-
-- PCBWay *(coming soon)*
+Download the gerbers and upload them to your PCB fabricator of choice. Order at 1.0mm and in ENIG if you don't plan on using tactile switches.
 
 # PCB Bill of Materials & Assembly
 
